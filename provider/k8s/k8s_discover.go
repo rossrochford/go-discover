@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/hashicorp/go-multierror"
+	"github.com/rossrochford/go-multierror"
 	"github.com/mitchellh/go-homedir"
 	corev1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

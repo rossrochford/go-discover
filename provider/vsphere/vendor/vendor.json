@@ -2,7 +2,7 @@
 	"comment": "",
 	"ignore": "test",
 	"package": [
-		{"path":"github.com/hashicorp/vic/pkg/vsphere/tags","checksumSHA1":"X/h8Dt3bUaLOmS21SkLX6jWb1hQ=","revision":"bbfe86ec94430f6716b4b2a7f3b5bb4df65f011d","revisionTime":"2019-04-03T13:15:02Z"},
+		{"path":"github.com/rossrochford/vic/pkg/vsphere/tags","checksumSHA1":"X/h8Dt3bUaLOmS21SkLX6jWb1hQ=","revision":"bbfe86ec94430f6716b4b2a7f3b5bb4df65f011d","revisionTime":"2019-04-03T13:15:02Z"},
 		{"path":"github.com/pkg/errors","checksumSHA1":"ljd3FhYRJ91cLZz3wsH9BQQ2JbA=","revision":"816c9085562cd7ee03e7f8188a1cfd942858cded","revisionTime":"2018-03-11T21:45:15Z"},
 		{"path":"github.com/sirupsen/logrus","checksumSHA1":"vRcu8DLpEnhOuaZ/M8iGl2CRG8Y=","revision":"3e01752db0189b9157070a0e1668a620f9a85da2","revisionTime":"2018-07-21T07:00:01Z","version":"v1.0.6","versionExact":"v1.0.6"},
 		{"path":"github.com/vmware/govmomi","checksumSHA1":"d9wuJiM8kohvnjoHIRJcaYH8Bhw=","revision":"ae91c0ee0a326f320a5458d206fc751f319e1cf9","revisionTime":"2018-05-25T20:17:32Z"},
@@ -25,5 +25,5 @@
 		{"path":"golang.org/x/sys/unix","checksumSHA1":"VUb+SqeoloAw1A2Jz9IzkDNs06c=","revision":"c11f84a56e43e20a78cee75a7c034031ecf57d1f","revisionTime":"2018-05-25T13:55:20Z"},
 		{"path":"golang.org/x/sys/windows","checksumSHA1":"m5QCvoZ2KaoLTG9VWjYNonM08b8=","revision":"c11f84a56e43e20a78cee75a7c034031ecf57d1f","revisionTime":"2018-05-25T13:55:20Z"}
 	],
-	"rootPath": "github.com/hashicorp/go-discover/provider/vsphere"
+	"rootPath": "github.com/rossrochford/go-discover/provider/vsphere"
 }

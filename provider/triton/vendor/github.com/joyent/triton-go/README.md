@@ -7,9 +7,9 @@ using Joyent's Triton Compute and Storage (Manta) APIs.
 
 The Triton Go SDK is used in the following open source projects.
 
-- [Packer](http://github.com/hashicorp/packer)
-- [Vault](http://github.com/hashicorp/vault)
-- [Terraform](http://github.com/hashicorp/terraform)
+- [Packer](http://github.com/rossrochford/packer)
+- [Vault](http://github.com/rossrochford/vault)
+- [Terraform](http://github.com/rossrochford/terraform)
 - [Terraform Triton Provider](https://github.com/terraform-providers/terraform-provider-triton)
 - [Docker Machine](https://github.com/joyent/docker-machine-driver-triton)
 - [Triton Kubernetes](https://github.com/joyent/triton-kubernetes)

@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/vic/pkg/vsphere/tags"
+	"github.com/rossrochford/vic/pkg/vsphere/tags"
 	"github.com/vmware/govmomi"
 	"github.com/vmware/govmomi/find"
 	"github.com/vmware/govmomi/object"

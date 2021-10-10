@@ -6,10 +6,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hashicorp/mdns"
+	"github.com/rossrochford/mdns"
 
-	discover "github.com/hashicorp/go-discover"
-	provider "github.com/hashicorp/go-discover/provider/mdns"
+	discover "github.com/rossrochford/go-discover"
+	provider "github.com/rossrochford/go-discover/provider/mdns"
 )
 
 func newTestServer() (*mdns.Server, error) {

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	m "github.com/hashicorp/mdns"
+	m "github.com/rossrochford/mdns"
 )
 
 // Provider implements the Provider interface.
